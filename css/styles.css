@@ -5,7 +5,6 @@ body {
     font-family: 'League Spartan';
     background-color:hsl(216, 12%, 8%);
     color: hsl(0, 0%, 100%);
-
 }
 
 
@@ -26,8 +25,7 @@ p {
     margin-top: 300px;
     padding: 25px;
     display:block;
-    
-}
+ }
 
 .thank-you {
     background-color: hsl(213, 19%, 18%);
@@ -38,20 +36,16 @@ p {
     padding: 25px;
     display:none;
     font-size: 18px;
-    
 }
 
 
 .thank-you-title {
-    text-align: center;
-    
+    text-align: center;  
 }
 
 .thank-you-p {
     text-align: center;
     line-height: 25px;
-
-
 }
 
 .thank-you-icon {
@@ -69,8 +63,6 @@ p {
     padding:10px 5px;
     margin: 30px auto;
     width: 60%;
-
-
 }
 
 .star-icon {
@@ -88,9 +80,7 @@ p {
     text-align: center;
     padding:18px;
     margin: 15px 4px;
-    width: 50px;
-
-    
+    width: 50px;    
 }
 
 .rating-container {
@@ -106,8 +96,7 @@ p {
     border: none;
     color: hsl(0, 0%, 100%);
     font-size:0.75rem;
-    margin: 20px auto;
-    
+    margin: 20px auto;  
 }
 
 
@@ -122,8 +111,7 @@ p {
     color: hsl(25, 97%, 53%);
     font-size:0.75rem;
     display: block;
-    margin: 20px auto;
-    
+    margin: 20px auto;  
 }
 
 .hovered {
